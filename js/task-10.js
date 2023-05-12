@@ -13,6 +13,8 @@ function createBoxes(amount) {
 
   
   const boxes = [];
+
+
   for (let i = 1; i <= amount; i++) {
     const box = document.createElement("div");
 
