@@ -22,7 +22,5 @@ ingredientsEl.append(...elements); // распыляем массив
 
 
 
-console.log('Илюха педик!')
-
 
 
