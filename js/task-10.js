@@ -18,7 +18,7 @@ function createBoxes(amount) {
   for (let i = 1; i <= amount; i++) {
     const box = document.createElement("div");
 
-    const size = 30 + i * 10 + "px";
+    const size = 30 + i + 10 + 'px';
 
     box.style.width = size;
     box.style.height = size;
